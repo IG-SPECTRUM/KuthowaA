@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+:root {
+  --background: #FFFDF9;
+  --foreground: #18181B;
+}
+
+@theme {
+  /* Color Palette overrides */
+  --color-cream: #FFFDF9;
+  --color-cream-deep: #F5F2E9;
+  --color-charcoal: #18181B;
+  --color-charcoal-light: #2D2D30;
+  --color-lavender-light: #ECE9F6;
+  --color-gold: #C4A25F;
+  --color-gold-light: #E6CE9F;
+  --color-whatsapp: #25D366;
+  
+  /* Font Family overrides */
+  --font-heading: var(--font-cormorant);
+  --font-body: var(--font-outfit);
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+  font-family: var(--font-body);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom visual utilities */
+@utility scale-102 {
+  transform: scale(1.02);
+}
+@utility scale-103 {
+  transform: scale(1.03);
+}
