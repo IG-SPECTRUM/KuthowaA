@@ -7,7 +7,7 @@ export default function HowItWorks() {
     {
       num: "1",
       title: "Browse Collection",
-      desc: "Explore our premium satin range and select your preferred items, sizes, and colors.",
+      desc: "Explore our Premium Silk range and select your preferred items, sizes, and colors.",
     },
     {
       num: "2",
@@ -41,7 +41,7 @@ export default function HowItWorks() {
           <h2 className="font-heading text-3xl md:text-4xl font-light text-charcoal">Our Process</h2>
           <div className="w-12 h-[1px] bg-gold/40 mx-auto my-4" />
           <p className="text-sm font-light text-charcoal-light leading-relaxed">
-            From initial consultation to the moment you unbox your satin, we ensure a seamless and luxurious experience.
+            From initial consultation to the moment you unbox your silk, we ensure a seamless and luxurious experience.
           </p>
         </div>
 

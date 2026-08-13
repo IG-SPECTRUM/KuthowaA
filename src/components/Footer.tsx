@@ -10,9 +10,9 @@ export default function Footer() {
   ];
 
   const productCategories = [
-    { label: "Premium Satin Pillowcases", href: "#products" },
+    { label: "Premium Silk Pillowcases", href: "#products" },
     { label: "Satin Hair Bonnets & Scarfs", href: "#products" },
-    { label: "Satin Bed Sheet Sets", href: "#products" },
+    { label: "Silk Bed Sheet Sets", href: "#products" },
     { label: "Bespoke Duvet Covers", href: "#products" },
     { label: "Luxury Bed Runners", href: "#products" },
   ];
@@ -37,7 +37,7 @@ export default function Footer() {
           </a>
 
           <p className="text-sm font-light text-cream-deep/80 leading-relaxed">
-            Zambian premium home and lifestyle brand specializing in luxury, handcrafted satin pillowcases, bed runners, bonnets, and bespoke bedding sets.
+            Zambian premium home and lifestyle brand specializing in luxury, handcrafted Silk Pillowcases, bed runners, bonnets, and bespoke bedding sets.
           </p>
 
           {/* Social Links */}

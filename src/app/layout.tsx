@@ -18,12 +18,12 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://kuthowacreatives.com"),
-  title: "Kuthowa Creatives | Premium Satin Bedding & Luxury Lifestyle Products",
-  description: "Discover luxury satin pillowcases, bed runners, bonnets, and custom bedding handcrafted in Zambia. Make everyday comfort affordable. Order via WhatsApp today.",
-  keywords: ["satin bedding", "satin pillowcase", "hair bonnet", "luxury bedding Zambia", "handcrafted bedding", "duvet covers", "Kuthowa Creatives", "Zambian craftsmanship"],
+  title: "Kuthowa Creatives | Premium Silk Bedding & Luxury Lifestyle Products",
+  description: "Discover luxury Silk Pillowcases, bed runners, bonnets, and custom bedding handcrafted in Zambia. Make everyday comfort affordable. Order via WhatsApp today.",
+  keywords: ["silk bedding", "Silk Pillowcase", "hair bonnet", "luxury bedding Zambia", "handcrafted bedding", "duvet covers", "Kuthowa Creatives", "Zambian craftsmanship"],
   openGraph: {
-    title: "Kuthowa Creatives - Modern African Luxury Satin Products",
-    description: "Experience the friction-free comfort of handcrafted premium satin bedding and bonnets. Elevate your home, Airbnb, or hotel today.",
+    title: "Kuthowa Creatives - Modern African Luxury silk products",
+    description: "Experience the friction-free comfort of handcrafted Premium Silk bedding and bonnets. Elevate your home, Airbnb, or hotel today.",
     url: "https://kuthowacreatives.com",
     siteName: "Kuthowa Creatives",
     images: [
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
         url: "/images/hero.jpg",
         width: 1200,
         height: 800,
-        alt: "Luxurious satin bedding set styled with warm lighting",
+        alt: "Luxurious silk bedding set styled with warm lighting",
       },
     ],
     locale: "en_ZM",
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Kuthowa Creatives - Modern African Luxury Satin Products",
-    description: "Experience the friction-free comfort of handcrafted premium satin bedding and bonnets. Elevate your home, Airbnb, or hotel today.",
+    title: "Kuthowa Creatives - Modern African Luxury silk products",
+    description: "Experience the friction-free comfort of handcrafted Premium Silk bedding and bonnets. Elevate your home, Airbnb, or hotel today.",
     images: ["/images/hero.jpg"],
   },
   robots: {
@@ -67,7 +67,7 @@ export default function RootLayout({
     "@type": "LocalBusiness",
     "name": "Kuthowa Creatives",
     "image": "https://kuthowacreatives.com/images/hero.jpg",
-    "description": "Premium satin bedding and luxury lifestyle products handcrafted in Zambia.",
+    "description": "Premium Silk bedding and luxury lifestyle products handcrafted in Zambia.",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Lusaka City Market",

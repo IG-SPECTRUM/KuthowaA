@@ -29,7 +29,7 @@ export default function WhoWeServe() {
     {
       icon: <Heart size={32} strokeWidth={1.5} />,
       title: "Bridal Gifts",
-      desc: "Exquisite custom-monogrammed satin sets that newlyweds will cherish and enjoy for years to come.",
+      desc: "Exquisite custom-monogrammed silk sets that newlyweds will cherish and enjoy for years to come.",
       linkText: "Curate a Gift",
       href: "https://wa.me/260967046463?text=Hi%20Kuthowa%20Creatives,%20I'd%20like%20to%20curate%20a%20bridal%20gift.",
     },

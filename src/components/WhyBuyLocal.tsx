@@ -74,7 +74,7 @@ export default function WhyBuyLocal() {
           
           <div className="relative z-10 space-y-6">
             <p className="font-heading text-lg md:text-xl font-light italic leading-relaxed text-cream-deep/90">
-              Kuthowa Creatives was founded with one mission—to make premium satin products accessible while celebrating Zambian craftsmanship. By choosing Kuthowa, you are not importing mass-produced products; you are supporting local artisans, securing faster custom orders, and choosing bedding tailored specifically to your home.
+              Kuthowa Creatives was founded with one mission—to make Premium Silk products accessible while celebrating Zambian craftsmanship. By choosing Kuthowa, you are not importing mass-produced products; you are supporting local artisans, securing faster custom orders, and choosing bedding tailored specifically to your home.
             </p>
             
             <div className="pt-6 border-t border-cream-deep/15">

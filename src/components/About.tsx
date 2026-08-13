@@ -27,7 +27,7 @@ export default function About() {
           >
             <div className="aspect-[4/5] relative w-full max-w-md mx-auto lg:mx-0 overflow-hidden border border-gold/10 shadow-2xl shadow-charcoal/5">
               <Image
-                src="/images/satin_duvet_cover.jpg"
+                src="/images/silk_duvet_cover.jpg"
                 alt="Kuthowa Creatives craftsmanship"
                 fill
                 className="object-cover"
@@ -57,7 +57,7 @@ export default function About() {
                 Born in Lusaka, Zambia
               </h3>
               <p className="text-sm font-light text-charcoal-light leading-relaxed mb-6">
-                Kuthowa Creatives was born from a simple belief: you shouldn&apos;t have to import expensive bedding from overseas to experience true luxury. We are a proudly Zambian brand dedicated to elevating the everyday sleep experience through high-quality, handcrafted satin products.
+                Kuthowa Creatives was born from a simple belief: you shouldn&apos;t have to import expensive bedding from overseas to experience true luxury. We are a proudly Zambian brand dedicated to elevating the everyday sleep experience through high-quality, handcrafted silk products.
               </p>
               <p className="text-sm font-light text-charcoal-light leading-relaxed">
                 Whether you&apos;re a homeowner looking to upgrade your bedroom, a newlywed building your first home, or an Airbnb host aiming to secure 5-star reviews, our collection is meticulously designed to offer premium comfort without the exorbitant price tag.

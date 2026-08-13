@@ -40,7 +40,7 @@ export default function CareGuide() {
           </div>
 
           <p className="font-light text-cream-deep/80 leading-relaxed text-sm md:text-base">
-            Kuthowa&apos;s high-density satin is crafted for longevity. With the right care, your bespoke bedding, bonnets, and accessories will maintain their lustrous shine and frictionless glide for years to come. Follow these simple steps to preserve the integrity of your satin.
+            Kuthowa&apos;s high-density silk is crafted for longevity. With the right care, your bespoke bedding, bonnets, and accessories will maintain their lustrous shine and frictionless glide for years to come. Follow these simple steps to preserve the integrity of your silk.
           </p>
 
           <a

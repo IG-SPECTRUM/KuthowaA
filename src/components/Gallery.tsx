@@ -7,31 +7,31 @@ export default function Gallery() {
   const images = [
     {
       src: "/images/hero.jpg",
-      alt: "Full bedroom dressed in luxurious lavender and cream satin sheets",
+      alt: "Full bedroom dressed in luxurious lavender and cream silk sheets",
       category: "Bespoke Bedding",
       className: "aspect-square sm:col-span-2 sm:row-span-2",
     },
     {
       src: "/images/pillowcase.jpg",
-      alt: "Macro detail of soft lavender satin pillowcase texture",
+      alt: "Macro detail of soft lavender Silk Pillowcase texture",
       category: "Premium Pillowcases",
       className: "aspect-square",
     },
     {
-      src: "/images/bonnet.jpg",
-      alt: "Smiling model wearing a premium gold satin hair bonnet",
+      src: "/images/bonnet.jpeg",
+      alt: "Smiling model wearing a premium gold silk hair bonnet",
       category: "Hair Protection",
       className: "aspect-square",
     },
     {
-      src: "/images/runner.jpg",
+      src: "/images/runner.JPG",
       alt: "Luxurious cream bed runner draped over a duvet",
       category: "Bed Accents",
       className: "aspect-square",
     },
     {
-      src: "/images/satin_sheet_set.jpg",
-      alt: "Satin sheet set arranged neatly",
+      src: "/images/silk_sheet_set.jpg",
+      alt: "Silk sheet set arranged neatly",
       category: "Sheet Sets",
       className: "aspect-square sm:col-span-2",
     },

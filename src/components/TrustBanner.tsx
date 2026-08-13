@@ -11,7 +11,7 @@ export default function TrustBanner() {
   const stats = [
     { value: "500+", label: "Happy Customers" },
     { value: "50+", label: "5-Star Reviews" },
-    { value: "100%", label: "Premium Satin" },
+    { value: "100%", label: "Premium Silk" },
     { value: "24h", label: "Customer Support" },
   ];
 

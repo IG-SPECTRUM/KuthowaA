@@ -36,7 +36,7 @@ export default function Benefits() {
           <h2 className="font-heading text-3xl md:text-4xl font-light text-charcoal">Why Satin?</h2>
           <div className="w-12 h-[1px] bg-gold/40 mx-auto my-4" />
           <p className="text-sm font-light text-charcoal-light leading-relaxed">
-            Our premium high-density satin protects your skin, locks in your curls, and keeps you cool all night long.
+            Our premium high-density silk protects your skin, locks in your curls, and keeps you cool all night long.
           </p>
         </div>
 
@@ -55,7 +55,7 @@ export default function Benefits() {
                   <th scope="col" className="p-6 w-[25%] font-semibold">Sleep Factor</th>
                   <th scope="col" className="p-6 w-[35%] font-semibold border-l border-cream/5">Standard Cotton</th>
                   <th scope="col" className="p-6 w-[40%] font-semibold border-l border-gold/20 bg-gold/5 text-gold-light">
-                    Kuthowa Satin
+                    Kuthowa Silk
                   </th>
                 </tr>
               </thead>

@@ -8,7 +8,7 @@ export default function TrustGuarantees() {
     {
       icon: <ShieldCheck size={32} className="text-gold mb-4" strokeWidth={1.5} />,
       title: "Premium Quality",
-      desc: "High-density satin that resists pulling and fading over time.",
+      desc: "high-density silk that resists pulling and fading over time.",
     },
     {
       icon: <HandHeart size={32} className="text-gold mb-4" strokeWidth={1.5} />,

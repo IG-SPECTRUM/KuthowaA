@@ -15,7 +15,7 @@ export default function Testimonials() {
   const testimonials: Testimonial[] = [
     {
       quote:
-        "My hair has never been less frizzy in the mornings. The quality of Kuthowa's satin is outstanding, and the customer care was incredibly warm and helpful!",
+        "My hair has never been less frizzy in the mornings. The quality of Kuthowa's silk is outstanding, and the customer care was incredibly warm and helpful!",
       name: "Chipo M.",
       role: "Homeowner, Lusaka",
       rating: 5,

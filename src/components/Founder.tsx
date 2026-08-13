@@ -43,10 +43,10 @@ export default function Founder() {
 
           <div className="font-light text-charcoal-light leading-relaxed space-y-4 text-sm md:text-base">
             <p>
-              &quot;Kuthowa Creatives was born out of a personal struggle to find high-quality, locally made satin products in Zambia. I was tired of importing generic, mass-produced items that took weeks to arrive and lacked that personal touch.&quot;
+              &quot;Kuthowa Creatives was born out of a personal struggle to find high-quality, locally made silk products in Zambia. I was tired of importing generic, mass-produced items that took weeks to arrive and lacked that personal touch.&quot;
             </p>
             <p>
-              &quot;We started small—creating bespoke satin bonnets and pillowcases for friends and family. The response was overwhelming. People didn&apos;t just want satin; they wanted luxury that felt accessible, customizable, and distinctly Zambian.&quot;
+              &quot;We started small—creating bespoke Silk Bonnets and pillowcases for friends and family. The response was overwhelming. People didn&apos;t just want satin; they wanted luxury that felt accessible, customizable, and distinctly Zambian.&quot;
             </p>
             <p>
               &quot;Today, we proudly supply homes, boutique hotels, and luxury Airbnbs across the country. Every stitch is a testament to our commitment to quality, empowering local artisans, and redefining modern African luxury.&quot;

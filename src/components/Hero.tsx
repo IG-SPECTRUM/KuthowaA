@@ -43,7 +43,7 @@ export default function Hero() {
             className="font-heading text-4xl md:text-5xl lg:text-6xl font-light leading-[1.1] text-charcoal"
           >
             Sleep Beautifully with <br className="hidden sm:inline" />
-            <span className="text-gold italic font-normal">Premium Satin</span> Bedding
+            <span className="text-gold italic font-normal">Premium Silk</span> Bedding
           </motion.h1>
 
           <motion.p
@@ -90,7 +90,7 @@ export default function Hero() {
         >
           <Image
             src="/images/hero.jpg"
-            alt="Luxurious lavender and cream satin bedding set styled with warm gold lighting"
+            alt="Luxurious lavender and cream silk bedding set styled with warm gold lighting"
             fill
             priority
             sizes="(max-width: 1024px) 100vw, 40vw"

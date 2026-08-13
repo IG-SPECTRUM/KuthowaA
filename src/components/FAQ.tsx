@@ -14,7 +14,7 @@ export default function FAQ() {
 
   const faqs: FaqItem[] = [
     {
-      question: "How do I wash and care for my satin products?",
+      question: "How do I wash and care for my silk products?",
       answer:
         "We recommend hand washing or using a gentle machine cycle in cold water with a mild, pH-balanced detergent. Air dry flat and iron on a low silk setting from the reverse side to preserve the luxurious sheen and structural integrity of the fabric.",
     },
