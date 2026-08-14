@@ -56,7 +56,7 @@ export default function Contact() {
                 <div>
                   <h4 className="font-semibold text-charcoal text-sm mb-1 uppercase tracking-wider">Delivery</h4>
                   <p className="text-sm font-light text-charcoal-light">
-                    Orders available online.<br />Delivery nationwide within 3 days.
+                    Orders available online.<br />Delivery nationwide within 3 days through local couriers.
                   </p>
                 </div>
               </div>

@@ -130,7 +130,7 @@ export default function Footer() {
               Delivery Information
             </h4>
             <p className="text-sm font-light text-cream-deep/80 leading-relaxed">
-              Nationwide delivery available across Zambia. Standard delivery time is 3 days.
+              Nationwide delivery is done within 3 days through local couriers.
             </p>
           </div>
         </div>

@@ -59,7 +59,7 @@ export default function WhatsAppCTA() {
           transition={{ delay: 0.4 }}
           className="text-[11px] uppercase tracking-widest text-cream/35"
         >
-          Custom orders currently take 3 days to craft.
+          Custom orders take 24 to 48 hours to craft.
         </motion.p>
       </div>
     </section>

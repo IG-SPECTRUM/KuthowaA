@@ -26,7 +26,7 @@ export default function FAQ() {
     {
       question: "How long do custom orders take to complete?",
       answer:
-        "Standard custom orders are handcrafted and ready within 3 days from order confirmation. Bulk commercial orders for lodges and hotels may require 10–14 days depending on quantity. We will always confirm your production timeline upfront.",
+        "Standard custom orders are handcrafted and ready within 24 to 48 hours from order confirmation. Bulk commercial orders for lodges and hotels may require 10–14 days depending on quantity. We will always confirm your production timeline upfront.",
     },
     {
       question: "Do you offer bulk discounts for lodges, Airbnbs, or hotels?",
@@ -86,7 +86,7 @@ export default function FAQ() {
               </div>
 
               <h4 className="font-heading text-xl text-gold-light mb-2 font-light">
-                Current Production Wait: 3 Days
+                Current Production Wait: 24 to 48 Hours
               </h4>
               <p className="text-xs font-light text-cream-deep/80 leading-relaxed mb-6">
                 Due to high demand for our handcrafted stitching, production slots fill quickly each week. Place your order today to secure priority crafting and scheduling.

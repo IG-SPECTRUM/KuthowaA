@@ -17,7 +17,7 @@ export default function HowItWorks() {
     {
       num: "3",
       title: "Custom Crafting",
-      desc: "Your bespoke pieces are meticulously handcrafted in our Lusaka studio over 3 days.",
+      desc: "Your bespoke pieces are meticulously handcrafted in our Lusaka studio within 24 to 48 hours.",
     },
     {
       num: "4",
@@ -27,7 +27,7 @@ export default function HowItWorks() {
     {
       num: "5",
       title: "Nationwide Delivery",
-      desc: "Your order is securely packaged and delivered to your doorstep anywhere in Zambia within 3 days.",
+      desc: "Your order is securely packaged and delivered to your doorstep anywhere in Zambia within 3 days through local couriers.",
     },
   ];
 
