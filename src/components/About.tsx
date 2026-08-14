@@ -74,7 +74,7 @@ export default function About() {
               <div>
                 <h4 className="font-heading text-xl text-charcoal mb-2">Our Promise</h4>
                 <p className="text-xs font-light text-charcoal-light leading-relaxed">
-                  We source only high-density, durable satin that feels incredible against the skin, regulates temperature, and withstands regular washing—ensuring your investment lasts for years.
+                  We source only high-density, durable silk that feels incredible against the skin, regulates temperature, and withstands regular washing—ensuring your investment lasts for years.
                 </p>
               </div>
             </div>

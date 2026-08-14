@@ -40,7 +40,7 @@ export default function WhatsAppCTA() {
           className="flex flex-col sm:flex-row gap-4 justify-center"
         >
           <a
-            href="https://wa.me/260967046463?text=Hi%20Kuthowa%20Creatives,%20I'm%20ready%20to%20order%20some%20premium%20satin%20items!"
+            href="https://wa.me/260967046463?text=Hi%20Kuthowa%20Creatives,%20I'm%20ready%20to%20order%20some%20premium%20silk%20items!"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-3 px-10 py-5 bg-[#25D366] text-white text-sm font-semibold uppercase tracking-widest hover:bg-[#1ebe5d] transition-all duration-300 shadow-lg shadow-[#25D366]/25 hover:shadow-xl hover:shadow-[#25D366]/30 hover:-translate-y-0.5"
@@ -59,7 +59,7 @@ export default function WhatsAppCTA() {
           transition={{ delay: 0.4 }}
           className="text-[11px] uppercase tracking-widest text-cream/35"
         >
-          Custom orders currently take 5–7 days to craft.
+          Custom orders currently take 3 days to craft.
         </motion.p>
       </div>
     </section>

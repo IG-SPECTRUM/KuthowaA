@@ -18,7 +18,7 @@ export default function CareGuide() {
     {
       icon: <Wind className="text-gold w-6 h-6" />,
       title: "Drying",
-      desc: "Do not wring or twist the satin. Roll in a towel to gently extract excess water. Never tumble dry.",
+      desc: "Do not wring or twist the silk. Roll in a towel to gently extract excess water. Never tumble dry.",
     },
     {
       icon: <Sun className="text-gold w-6 h-6" />,
@@ -35,7 +35,7 @@ export default function CareGuide() {
         <div className="lg:col-span-5 space-y-8">
           <div className="space-y-3">
             <span className="text-xs font-semibold uppercase tracking-widest text-gold">Product Care</span>
-            <h2 className="font-heading text-3xl md:text-4xl font-light text-cream">Satin Care Guide</h2>
+            <h2 className="font-heading text-3xl md:text-4xl font-light text-cream">Silk Care Guide</h2>
             <div className="w-12 h-[1px] bg-gold/45" />
           </div>
 
@@ -44,7 +44,7 @@ export default function CareGuide() {
           </p>
 
           <a
-            href="https://wa.me/260967046463?text=Hi%20Kuthowa%20Creatives,%20I%20have%20a%20question%20about%20caring%20for%20my%20satin."
+            href="https://wa.me/260967046463?text=Hi%20Kuthowa%20Creatives,%20I%20have%20a%20question%20about%20caring%20for%20my%20silk."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-4 text-xs font-semibold uppercase tracking-widest text-gold hover:text-white transition-colors duration-300"

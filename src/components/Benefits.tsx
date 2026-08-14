@@ -7,22 +7,22 @@ export default function Benefits() {
     {
       factor: "Hair Health",
       cotton: "Rough fibers cause friction, breakage, split ends, and bedhead frizz.",
-      satin: "Friction-free slip that lets hair slide smoothly, preventing breakage.",
+      silk: "Friction-free slip that lets hair slide smoothly, preventing breakage.",
     },
     {
       factor: "Skin Moisture",
       cotton: "Highly absorbent; drinks up your night creams and strips skin oils.",
-      satin: "Hydrophobic structure that keeps hydration and expensive skincare on your skin.",
+      silk: "Hydrophobic structure that keeps hydration and expensive skincare on your skin.",
     },
     {
       factor: "Aesthetic & Feel",
       cotton: "Wrinkles quickly, looks worn and faded after a few standard washes.",
-      satin: "Naturally smooth, wrinkle-resistant luxury sheen with rich accent borders.",
+      silk: "Naturally smooth, wrinkle-resistant luxury sheen with rich accent borders.",
     },
     {
       factor: "Temperature Control",
       cotton: "Traps body heat during hot seasons, causing sweat and discomfort.",
-      satin: "Silky cool-to-the-touch composition for breathable comfort in any weather.",
+      silk: "Silky cool-to-the-touch composition for breathable comfort in any weather.",
     },
   ];
 
@@ -33,7 +33,7 @@ export default function Benefits() {
         {/* Section Header */}
         <div className="text-center max-w-2xl mx-auto mb-16 space-y-3">
           <span className="text-xs font-semibold uppercase tracking-widest text-gold">The Science of Sleep</span>
-          <h2 className="font-heading text-3xl md:text-4xl font-light text-charcoal">Why Satin?</h2>
+          <h2 className="font-heading text-3xl md:text-4xl font-light text-charcoal">Why Silk?</h2>
           <div className="w-12 h-[1px] bg-gold/40 mx-auto my-4" />
           <p className="text-sm font-light text-charcoal-light leading-relaxed">
             Our premium high-density silk protects your skin, locks in your curls, and keeps you cool all night long.
@@ -72,7 +72,7 @@ export default function Benefits() {
                       {row.cotton}
                     </td>
                     <td className="p-6 text-charcoal font-light bg-lavender-light/35 border-l border-gold/30 align-top group-hover:bg-lavender-light/50 transition-colors">
-                      {row.satin}
+                      {row.silk}
                     </td>
                   </tr>
                 ))}

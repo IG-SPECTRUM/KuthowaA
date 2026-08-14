@@ -7,7 +7,7 @@ import { motion, AnimatePresence } from "framer-motion";
 const navLinks = [
   { label: "Our Story", href: "#about" },
   { label: "Collection", href: "#products" },
-  { label: "Why Satin", href: "#benefits" },
+  { label: "Why Silk", href: "#benefits" },
   { label: "Our Process", href: "#how-it-works" },
   { label: "FAQ", href: "#faq" },
   { label: "Contact", href: "#contact" },

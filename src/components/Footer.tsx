@@ -4,14 +4,14 @@ export default function Footer() {
   const quickLinks = [
     { label: "Our Story", href: "#about" },
     { label: "Our Process", href: "#how-it-works" },
-    { label: "Why Choose Satin", href: "#benefits" },
+    { label: "Why Choose Silk", href: "#benefits" },
     { label: "Who We Serve", href: "#who-we-serve" },
     { label: "Inspiration Gallery", href: "#gallery" },
   ];
 
   const productCategories = [
     { label: "Premium Silk Pillowcases", href: "#products" },
-    { label: "Satin Hair Bonnets & Scarfs", href: "#products" },
+    { label: "Silk Hair Bonnets & Scarfs", href: "#products" },
     { label: "Silk Bed Sheet Sets", href: "#products" },
     { label: "Bespoke Duvet Covers", href: "#products" },
     { label: "Luxury Bed Runners", href: "#products" },
@@ -19,7 +19,7 @@ export default function Footer() {
 
   const customerCare = [
     { label: "Frequently Asked Questions", href: "#faq" },
-    { label: "Satin Care Guide", href: "#care-guide" },
+    { label: "Silk Care Guide", href: "#care-guide" },
     { label: "Contact Us", href: "#contact" },
   ];
 
@@ -47,7 +47,7 @@ export default function Footer() {
             </h4>
             <div className="flex gap-6">
               <a
-                href="https://facebook.com/kuthowacreatives"
+                href="https://www.facebook.com/share/18xLF51jGT/?mibextid=wwXIfr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs font-semibold uppercase tracking-widest text-cream-deep/80 hover:text-gold transition-colors duration-200"
@@ -55,7 +55,7 @@ export default function Footer() {
                 Facebook
               </a>
               <a
-                href="https://instagram.com/kuthowacreatives"
+                href="https://www.instagram.com/kuthowa_creatives/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs font-semibold uppercase tracking-widest text-cream-deep/80 hover:text-gold transition-colors duration-200"
@@ -130,7 +130,7 @@ export default function Footer() {
               Delivery Information
             </h4>
             <p className="text-sm font-light text-cream-deep/80 leading-relaxed">
-              Nationwide delivery available across Zambia. Standard fulfillment time is 5-7 working days.
+              Nationwide delivery available across Zambia. Standard delivery time is 3 days.
             </p>
           </div>
         </div>

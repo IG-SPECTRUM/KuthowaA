@@ -46,7 +46,7 @@ export default function Founder() {
               &quot;Kuthowa Creatives was born out of a personal struggle to find high-quality, locally made silk products in Zambia. I was tired of importing generic, mass-produced items that took weeks to arrive and lacked that personal touch.&quot;
             </p>
             <p>
-              &quot;We started small—creating bespoke Silk Bonnets and pillowcases for friends and family. The response was overwhelming. People didn&apos;t just want satin; they wanted luxury that felt accessible, customizable, and distinctly Zambian.&quot;
+              &quot;We started small—creating bespoke Silk Bonnets and pillowcases for friends and family. The response was overwhelming. People didn&apos;t just want silk; they wanted luxury that felt accessible, customizable, and distinctly Zambian.&quot;
             </p>
             <p>
               &quot;Today, we proudly supply homes, boutique hotels, and luxury Airbnbs across the country. Every stitch is a testament to our commitment to quality, empowering local artisans, and redefining modern African luxury.&quot;
@@ -54,8 +54,8 @@ export default function Founder() {
           </div>
           
           <div className="pt-6 border-t border-gold/10 mt-8">
-            <h5 className="font-heading text-xl text-charcoal">Luyando</h5>
-            <p className="text-[10px] uppercase tracking-widest text-gold font-semibold mt-1">Founder & Creative Director</p>
+            <h5 className="font-heading text-xl text-charcoal">Esnart Chikobe</h5>
+            <p className="text-[10px] uppercase tracking-widest text-gold font-semibold mt-1">Founder & CEO</p>
           </div>
         </motion.div>
 
