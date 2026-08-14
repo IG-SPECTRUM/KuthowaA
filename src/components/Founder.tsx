@@ -43,13 +43,25 @@ export default function Founder() {
 
           <div className="font-light text-charcoal-light leading-relaxed space-y-4 text-sm md:text-base">
             <p>
-              &quot;Kuthowa Creatives was born out of a personal struggle to find high-quality, locally made silk products in Zambia. I was tired of importing generic, mass-produced items that took weeks to arrive and lacked that personal touch.&quot;
+              Kuthowa Creatives was born from a simple belief: <strong className="font-semibold text-charcoal">luxury should not have to be imported to be exceptional.</strong>
             </p>
             <p>
-              &quot;We started small—creating bespoke Silk Bonnets and pillowcases for friends and family. The response was overwhelming. People didn&apos;t just want silk; they wanted luxury that felt accessible, customizable, and distinctly Zambian.&quot;
+              We saw an opportunity to create something different in Zambia—a home and lifestyle brand that combines the beauty of premium textiles with the creativity, craftsmanship, and talent found within our own communities.
             </p>
             <p>
-              &quot;Today, we proudly supply homes, boutique hotels, and luxury Airbnbs across the country. Every stitch is a testament to our commitment to quality, empowering local artisans, and redefining modern African luxury.&quot;
+              What began with bespoke silk bonnets and pillowcases has grown into a vision for a modern African home-textiles brand, creating thoughtfully designed products for bedrooms, homes, hospitality spaces, and everyday living.
+            </p>
+            <p>
+              At Kuthowa, we believe luxury is more than a beautiful product. It is the feeling of coming home to a space that reflects you. It is the freedom to choose your colours, fabrics, finishes, and details. It is quality you can feel, craftsmanship you can trust, and products created with purpose.
+            </p>
+            <p>
+              Our ambition is to build Kuthowa into a <strong className="font-semibold text-charcoal">leading African home and lifestyle brand</strong>, known for premium textiles, distinctive design, customization, and exceptional customer experience.
+            </p>
+            <p>
+              We are committed to growing beyond products—to building a platform that creates opportunities for local artisans, supports local manufacturing, develops creative talent, and demonstrates that African businesses can create products that compete not only locally, but globally.
+            </p>
+            <p className="font-medium text-charcoal">
+              We are not simply making bedding. We are creating a new standard for modern African living—where local craftsmanship meets contemporary luxury, and where every space has the freedom to feel beautifully, authentically yours.
             </p>
           </div>
           

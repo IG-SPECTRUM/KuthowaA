@@ -78,8 +78,8 @@ export default function Header() {
       >
         <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
           {/* Logo */}
-          <a href="#" className="font-heading text-2xl font-semibold tracking-wide text-charcoal">
-            <span className="text-gold italic font-normal lowercase first-letter:uppercase">Kuthowa</span> Creatives
+          <a href="#" className="inline-block py-2">
+            <img src="/images/logo-gold.png" alt="Kuthowa Creatives" className="h-10 md:h-12 w-auto object-contain" />
           </a>
 
           {/* Desktop Nav */}

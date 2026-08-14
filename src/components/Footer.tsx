@@ -32,8 +32,8 @@ export default function Footer() {
 
         {/* Brand Column */}
         <div className="space-y-6 lg:pr-8">
-          <a href="#" className="font-heading text-2xl font-semibold tracking-wide inline-block">
-            <span className="text-gold italic font-normal lowercase first-letter:uppercase">Kuthowa</span> Creatives
+          <a href="#" className="inline-block mb-4">
+            <img src="/images/logo-gold.png" alt="Kuthowa Creatives" className="h-12 w-auto object-contain" />
           </a>
 
           <p className="text-sm font-light text-cream-deep/80 leading-relaxed">
