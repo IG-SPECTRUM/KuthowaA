@@ -53,9 +53,15 @@ export default function Founder() {
             </p>
           </div>
           
-          <div className="pt-6 border-t border-gold/10 mt-8">
-            <h5 className="font-heading text-xl text-charcoal">Esnart Chikobe</h5>
-            <p className="text-[10px] uppercase tracking-widest text-gold font-semibold mt-1">Founder & CEO</p>
+          <div className="pt-6 border-t border-gold/10 mt-8 flex flex-col sm:flex-row sm:gap-12 gap-6">
+            <div>
+              <h5 className="font-heading text-xl text-charcoal">Esnart Chikobe</h5>
+              <p className="text-[10px] uppercase tracking-widest text-gold font-semibold mt-1">Founder & CEO</p>
+            </div>
+            <div>
+              <h5 className="font-heading text-xl text-charcoal">Paul Banda</h5>
+              <p className="text-[10px] uppercase tracking-widest text-gold font-semibold mt-1">Chief Technology Officer (CTO)</p>
+            </div>
           </div>
         </motion.div>
 
